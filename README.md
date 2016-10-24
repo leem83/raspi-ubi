@@ -2,7 +2,7 @@
 
 Python script that runs on a RaspberryPi to collect temprature from a digital sensor and writes it to an IoT storage service Ubidots. 
 
-## Build
+## Project Overview
 
 - [Digital Sensor](https://www.amazon.com/gp/product/B004G53D54/ref=od_aui_detailpages00?ie=UTF8&psc=1)
 
@@ -18,4 +18,7 @@ Python script that runs on a RaspberryPi to collect temprature from a digital se
 
 - Ubidots Dashboard
 
-<img src="" width="300">
+<img src="https://cloud.githubusercontent.com/assets/2976445/19631728/917bafb8-9954-11e6-9de0-757ea589eb18.png" width="600">
+
+- See the data live for yourself - 
+   [http://leem.me/temp](http://leem.me/temp)
