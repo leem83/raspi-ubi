@@ -10,4 +10,12 @@ Python script that runs on a RaspberryPi to collect temprature from a digital se
 
 - Wiring Diagram
 
-<img src="https://pimylifeup.com/wp-content/uploads/2016/03/Raspberry-Pi-Temperature-Sensor-Diagram-v2.png" width="300">
+<img src="https://www.domolio.fr/wp-content/uploads/2014/11/schema-ds18b20-raspberrypi.png" width="300">
+
+- Assembled 
+
+<img src="https://cdn-learn.adafruit.com/guides/images/000/000/195/medium800/summary.jpg?1448301148" width="300">
+
+- Ubidots Dashboard
+
+<img src="" width="300">
