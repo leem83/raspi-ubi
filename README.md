@@ -3,7 +3,7 @@
 Python script that runs on a RaspberryPi to collect temprature from a digital sensor and writes it to an IoT storage service Ubidots. 
 
 ## Build
-- Digital Sensor 
+- Digital Sensor
 ![alt tag](https://images-na.ssl-images-amazon.com/images/I/31DnYDJDJtL._SX466_.jpg)
 
 - Wiring Diagram
